@@ -1,2 +1,2 @@
-# Tribute-Page
+# TrunksTribute-Page
 Tribute page from freecodecamp project ideas
